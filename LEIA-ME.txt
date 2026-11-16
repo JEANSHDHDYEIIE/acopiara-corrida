@@ -1,0 +1,16 @@
+ESTRADA DE ACOPIARA — PROJETO ANDROID
+
+O jogo HTML está incluído e funciona offline dentro do aplicativo Android.
+
+GERAR O APK PELA INTERNET (sem instalar Android Studio no celular):
+1. Crie uma conta gratuita em https://github.com/ se ainda não tiver.
+2. No GitHub, crie um repositório novo.
+3. Extraia este ZIP e envie TODOS os arquivos e pastas do projeto para o repositório.
+   Importante: inclua também a pasta oculta .github/workflows.
+4. Abra a aba Actions do repositório.
+5. Escolha "Gerar APK Android" e toque em "Run workflow" (se necessário).
+6. Aguarde a compilação terminar com sucesso.
+7. Abra a execução concluída e baixe o artefato "Estrada-de-Acopiara-APK".
+8. Extraia o ZIP baixado e toque em app-debug.apk para instalar.
+
+O APK ainda não está compilado neste pacote. A compilação será feita pelos servidores do GitHub Actions.
